@@ -1,0 +1,26 @@
+[
+    {
+        "IdTrack": "01",
+        "nameTrack": "Die With a smile",
+        "artist": "Lady Gaga, Bruno Mars",
+        "genre": "Pop",
+        "file_path": "https://youtu.be/kPa7bsKwL-c?si=3Q0fwL3Ji71J8S6p",
+        "rating": 1
+    },
+    {
+        "IdTrack": "02",
+        "nameTrack": "APT",
+        "artist": "Bruno Mars, Rose",
+        "genre": "Pop",
+        "file_path": "https://youtu.be/ekr2nIex040?si=WxFSxYlMAmHlFS-A",
+        "rating": 2
+    },
+    {
+        "IdTrack": "03",
+        "nameTrack": "Roar",
+        "artist": "Katy Petty",
+        "genre": "Pop",
+        "file_path": "https://youtu.be/CevxZvSJLk8?si=_G9av-6-i26a1ZZ1",
+        "rating": 3
+    }
+]
