@@ -1,0 +1,18 @@
+[
+    {
+        "IdTrack": "02",
+        "nameTrack": "Counting Star",
+        "artist": "OneRepublic",
+        "genre": "Pop",
+        "file_path": "https://youtu.be/hT_nvWreIhg?si=ofnGiPxI3bKPq5wx",
+        "rating": 2
+    },
+    {
+        "IdTrack": "03",
+        "nameTrack": "Die With a smile",
+        "artist": "Bruno Mars",
+        "genre": "Pop",
+        "file_path": "https://youtu.be/kPa7bsKwL-c?si=Vwyc7V0OnX3ZqVgn",
+        "rating": 3
+    }
+]
